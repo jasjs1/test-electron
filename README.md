@@ -6,7 +6,7 @@ Learn how to use Electron for Multiplatform Desktop Applications.
  
 To install Electron, we'll be using npm.
 
-Vital steps:
+## Steps:
 
 1. Make sure you are in the correct folder directory in the terminal.
 
