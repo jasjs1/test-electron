@@ -1,0 +1,1 @@
+console.log("This is a example Electron app, and also Helllo World");
